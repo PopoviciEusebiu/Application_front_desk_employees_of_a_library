@@ -11,6 +11,5 @@ The administrator user can perform the following operations:
 - CRUD on employees’ information.
 - Generate reports for a particular period containing the activities performed by an employee.
 The data will be stored in a database. Use the Layers architectural pattern to organize your
-application
--All the inputs of the application will be validated against invalid data before submitting the
+application. All the inputs of the application will be validated against invalid data before submitting the
 data and saving it in the database.
