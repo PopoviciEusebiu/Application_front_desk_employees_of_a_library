@@ -12,5 +12,5 @@ The administrator user can perform the following operations:
 - Generate reports for a particular period containing the activities performed by an employee.
 The data will be stored in a database. Use the Layers architectural pattern to organize your
 application
-• All the inputs of the application will be validated against invalid data before submitting the
+-All the inputs of the application will be validated against invalid data before submitting the
 data and saving it in the database.
